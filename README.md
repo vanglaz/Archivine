@@ -1,4 +1,4 @@
-## Hi, I'm Archivine.  <br />  A seriously brain damaged programmer wannabe.
+## I am brain damaged as always  <br />
 
 ### Learning:  
 
