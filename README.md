@@ -1,4 +1,4 @@
-## I am brain damaged as always  <br />
+## brain damaged as always  <br />
 
 ### Learning:  
 
