@@ -19,6 +19,3 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Archivine&show_icons=true&theme=dracula)
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/818606240371310622)](https://discord.com/users/818606240371310622)
-
