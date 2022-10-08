@@ -5,7 +5,7 @@
 <body>
     <h1 align='center'>Welcome to my GitHub profile, peasant! 👋</h1>
     <h2 align='center'>About me</h2>
-    <p align='center'><span>Wether it's messing up the entire project by changing just one line of code or accidentally pushing my commits to the wrong branches, I am always ready and steady to fuck up your day.   <br>  <br>
+    <p align='center'><span>Wether it's messing up the entire project by changing just one line of code or accidentally pushing my commits to the wrong branches, I am always ready and steady to fuck your day up.   <br>  <br>
     Trying to become a Fullstack Developer (Utterly failing to do so) <br>
     Somewhat a Linux enthusiast <br>
     Based in Poland 🇵🇱</span>
