@@ -3,7 +3,8 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				.container {
-					background: red;
+					background: #161616;
+					border-radius: 5px;
 				}
 				p {
 					font-size: 20px;
