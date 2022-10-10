@@ -35,6 +35,15 @@
                     width: 75%;
                     height: 0.1rem;
                 }
+                a {
+                    font-size: 22px;
+                    text-decoration: none;
+                    color: #e4e4e4;
+                    transition: 1s;
+                }
+                a:hover {
+                    color: #bcbcbc;
+                }
 
                 
       </style>
@@ -45,7 +54,7 @@
         <p>
           Wether it's messing up the entire codebase by changing just one line of code or accidentally pushing my commits to the wrong branches, I am always ready and steady to fuck your day up.
         </p>
-        <hr/>
+        <br/>
         <p style="text-align: left; color: #dedede;">
            Trying to code shit (Utterly failing to do so) <br/>
 
@@ -56,28 +65,13 @@
         <br/>
         <br/>
         <h1>Some of my recent repos</h1>
-        <hr/>
+         <br/>
 
         <div>
-          <table style="display: flex; justify-content: center;">
-            <thead>
-              <tr style="border: none !important;">
-
-                <th style="border: none!important;"><p>vaul.xyz</p></th>
-
-              </tr>
-
-            </thead>
-            <tbody>
-
-                 <tr>
-
-                    <td><a href="https://vaul.xyz/"><img src="https://files.hyper.pics/hyper/Y7swmRvVJQ.png"/></a></td>
-
-                </tr>
-            </tbody>
-          </table>
+          <p><a href="https://github.com/archivine/vaul.xyz">vaul.xyz</a></p>
+          <p style="font-size: 18px">A pretty simple react.js personal website that uses <a href=""></a> to fetch my discord info.</p>
         </div>
+          
       </div>
     </div>
   </foreignObject>
