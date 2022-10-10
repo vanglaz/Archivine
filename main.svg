@@ -1,20 +1,84 @@
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				.container {
-					background: #161616;
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+              .container {
+                    padding: 25px;
+					background: rgb(2,0,36);
+                    background: linear-gradient(36deg, rgba(2,0,36,1) 0%, rgba(255,154,158,1) 0%, rgba(254,207,239,1) 100%); 
 					border-radius: 5px;
+                    font-family:
+						system-ui,
+						-apple-system,
+						&apos;Segoe UI&apos;,
+						Roboto,
+						Helvetica,
+						Arial,
+						sans-serif,
+						&apos;Apple Color Emoji&apos;,
+						&apos;Segoe UI Emoji&apos;;
+              
 				}
+
+                h1 {
+                    color: white;
+                    font-size: 24px;
+                }
 				p {
 					font-size: 20px;
-					text-shadow: 0 1px 0 #efefef;
-					color: white;
+					color: #e8e8e8;
+					
+                    margin: 0;
 				}
-			</style>
-			<div class="container">
-				<p>hi</p>
-			</div>
-		</div>
-	</foreignObject>
+                hr {
+                    color: white;
+                    width: 75%;
+                    height: 0.1rem;
+                }
+
+                
+      </style>
+      <div class="container">
+        <h1>
+          Welcome to my github profile, peasant!
+        </h1>
+        <p>
+          Wether it's messing up the entire codebase by changing just one line of code or accidentally pushing my commits to the wrong branches, I am always ready and steady to fuck your day up.
+        </p>
+        <hr/>
+        <p style="text-align: left; color: #dedede;">
+           Trying to code shit (Utterly failing to do so) <br/>
+
+    Somewhat a Linux enthusiast <br/>
+
+    Based in Poland 🇵🇱
+          </p>
+        <br/>
+        <br/>
+        <h1>Some of my recent repos</h1>
+        <hr/>
+
+        <div>
+          <table style="display: flex; justify-content: center;">
+            <thead>
+              <tr style="border: none !important;">
+
+                <th style="border: none!important;"><p>vaul.xyz</p></th>
+
+              </tr>
+
+            </thead>
+            <tbody>
+
+                 <tr>
+
+                    <td><a href="https://vaul.xyz/"><img src="https://files.hyper.pics/hyper/Y7swmRvVJQ.png"/></a></td>
+
+                </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
 </svg>
