@@ -56,8 +56,11 @@
           <p><a href="https://github.com/archivine/vaul.xyz">vaul.xyz</a></p>
           <p style="font-size: 18px">A pretty simple react.js personal website that uses <a href=""></a> to fetch my discord info.</p>
 	  <br/>
-                    <p><a href="https://github.com/archivine/vaul_client">vaul_client</a></p>
-          <p style="font-size: 18px">A retarded discord client modification I coded out of boredom..</p>
+          <p><a href="https://github.com/archivine/vaul_client">vaul_client</a></p>
+          <p style="font-size: 18px">A retarded discord client modification I made out of boredom.</p>
+	  <br>
+	  <p><a href="https://github.com/archivine/panel">python panel</a></p>
+          <p style="font-size: 18px">Python MVC user management panel I made for educational purposes.</p>
         </div>
         
           
