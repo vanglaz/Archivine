@@ -2,8 +2,8 @@
 
 
 <body>
-    <img src="main.svg"/>
-    <img src="repos.svg"/>
+    <img src="header.svg"/>
+    <img src="recent_repos.svg"/>
 
 </body>
 
