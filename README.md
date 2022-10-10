@@ -3,7 +3,7 @@
 
 <body>
     <img src="header.svg"/>
-    <img src="recent_repos.svg"/>
+    <img src="r_repos.svg"/>
 
 </body>
 
