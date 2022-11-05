@@ -10,7 +10,7 @@ knowledge in networking.
 • Currently learning React.js
 
 ## » Contact 📩
-If you to contact me for som reason, here are the ways to reach me out  
+If you wish to contact me for some reason, here are the ways to reach me out:  
 ##### Sorted by preference  
 **Discord » __vaul#8138__**  
 **Mail » __vaul@vaul.xyz__**  
