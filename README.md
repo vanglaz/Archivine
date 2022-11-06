@@ -4,7 +4,7 @@
 
 
 ## » Hi, I'm vaul :wave:
-A 15yo passionate web developer based in Poland 🇵🇱
+A passionate web developer based in Poland 🇵🇱
 
 ## » About me 🤓
 I've always been intrigued by computers and their inner workings. However, I found web development to be my main thing. I also got some basic
